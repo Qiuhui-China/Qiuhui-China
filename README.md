@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Qiuhui-China
 - 👀 I’m interested in sleeping and eating delicious foods
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me qiuhui@alumni.pku.edu.cn
+- 📫 How to reach me qiuhui@org.pku.edu.cn
 
 <!---
 Qiuhui-China/Qiuhui-China is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
